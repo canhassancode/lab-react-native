@@ -1,12 +1,12 @@
 import { Text } from "react-native";
 import { SafeAreaView } from "react-native-safe-area-context";
 
-const History = () => {
+const SignIn = () => {
   return (
     <SafeAreaView>
-      <Text>History</Text>
+      <Text>Sign In</Text>
     </SafeAreaView>
   );
 };
 
-export default History;
+export default SignIn;
