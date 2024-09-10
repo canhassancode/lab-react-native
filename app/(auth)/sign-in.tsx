@@ -8,7 +8,6 @@ import { Text, ScrollView, View, Image } from "react-native";
 
 const SignIn = () => {
   const [form, setForm] = useState({
-    name: "",
     email: "",
     password: "",
   });
