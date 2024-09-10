@@ -10,3 +10,5 @@ const Page = () => {
 };
 
 export default Page;
+
+// TODO: Upgraded clerk later -> https://stackoverflow.com/questions/78958246/react-native-typeerror-window-addeventlistener-is-not-a-function-it-is-undef
